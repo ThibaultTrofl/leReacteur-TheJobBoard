@@ -74,7 +74,7 @@ const App = () => {
                 contractType="CDI"
                 country="France"
                 city="Pantin"
-                className="borderColor-Yellow"
+                className="borderColor-Blue"
               />
             </div>
           </div>
